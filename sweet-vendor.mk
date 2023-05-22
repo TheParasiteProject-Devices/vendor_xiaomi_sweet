@@ -666,7 +666,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sweet/proprietary/vendor/lib/rfsa/adsp/misound_res_headphone.bin:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/misound_res_headphone.bin \
     vendor/xiaomi/sweet/proprietary/vendor/lib/rfsa/adsp/misound_res_spk.bin:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/misound_res_spk.bin \
     vendor/xiaomi/sweet/proprietary/vendor/lib/soundfx/libasphere.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libasphere.so \
-    vendor/xiaomi/sweet/proprietary/vendor/lib/soundfx/libdirac.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libdirac.so \
     vendor/xiaomi/sweet/proprietary/vendor/lib/soundfx/libmisoundfx.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmisoundfx.so \
     vendor/xiaomi/sweet/proprietary/vendor/lib/soundfx/libqcbassboost.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcbassboost.so \
     vendor/xiaomi/sweet/proprietary/vendor/lib/soundfx/libqcreverb.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcreverb.so \
@@ -717,8 +716,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sweet/proprietary/vendor/lib64/camera/com.qti.tuned.sweet_ofilm_imx471_front.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sweet_ofilm_imx471_front.bin \
     vendor/xiaomi/sweet/proprietary/vendor/lib64/camera/com.qti.tuned.sweet_ofilm_ov02b1b_depth.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sweet_ofilm_ov02b1b_depth.bin \
     vendor/xiaomi/sweet/proprietary/vendor/lib64/camera/com.qti.tuned.sweet_ofilm_ov5675_macro.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sweet_ofilm_ov5675_macro.bin \
-    vendor/xiaomi/sweet/proprietary/vendor/lib64/camera/com.qti.tuned.sweet_ofilm_s5kgw3_wide.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sweet_ofilm_s5kgw3_wide.bin \
     vendor/xiaomi/sweet/proprietary/vendor/lib64/camera/com.qti.tuned.sweet_ofilm_s5khm2_wide.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sweet_ofilm_s5khm2_wide.bin \
+    vendor/xiaomi/sweet/proprietary/vendor/lib64/camera/com.qti.tuned.sweet_ofilm_s5kgw3_wide.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sweet_ofilm_s5kgw3_wide.bin \
     vendor/xiaomi/sweet/proprietary/vendor/lib64/camera/com.qti.tuned.sweet_sunny_gc02m1_depth.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sweet_sunny_gc02m1_depth.bin \
     vendor/xiaomi/sweet/proprietary/vendor/lib64/camera/com.qti.tuned.sweet_sunny_imx355_ultra.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sweet_sunny_imx355_ultra.bin \
     vendor/xiaomi/sweet/proprietary/vendor/lib64/camera/com.qti.tuned.sweet_sunny_imx471_front.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.sweet_sunny_imx471_front.bin \
