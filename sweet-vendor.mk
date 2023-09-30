@@ -1214,6 +1214,7 @@ PRODUCT_PACKAGES += \
     TimeService \
     PowerOffAlarm \
     ImsRcsService \
+    QtiTelephony \
     QtiTelephonyService \
     embms \
     dpmserviceapp \
@@ -1226,6 +1227,7 @@ PRODUCT_PACKAGES += \
     dpmapi \
     embmslibrary \
     qcrilhook \
+    qti-telephony-common \
     vendor.qti.ims.factory-V1.0-java \
     vendor.qti.ims.factory-V1.1-java \
     vendor.qti.ims.factory-V2.0-java \
